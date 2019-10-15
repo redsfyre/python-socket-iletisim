@@ -1,6 +1,6 @@
 # Python Socket Veri İletişimi Dersi Ödevi
 
-##Python ile socket kullanarak ağ üzerinde veri transferi yapmak
+### Python ile socket kullanarak ağ üzerinde veri transferi yapmak
 
 Çalıştırmak için
 - `pip3 install -r requirements.txt`.
