@@ -17,7 +17,7 @@
 
         Basit bir dosya aktarıcı
 
-        Konumsal argümanlar:
+        Zorunlu argümanlar:
         file                  Gönderilecek dosyanın adı
         host                  Alıcının IP adresi
 
