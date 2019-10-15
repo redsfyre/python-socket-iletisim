@@ -30,7 +30,9 @@
         python3 sender.py data.txt 192.168.1.101
         ```
 ## Hata almanız durumunda:
-    Cihazınızda python 3+ ve pip kurulu olmadığı müddetçe transferi gerçekleştiremezsiniz.
-    Buraya kadar gelmenizden python kullandığınızı ve cihazınızda geçerliliğini yitirmek üzere olan python 2.7'nin yerine python 3+ kurulu olduğunu tahmin ediyorum
-    Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelir ancak; eğer Windows kullanıyor ve pip kurmakta sorun yaşıyorsanı lütfen şu orjinal python dökümantosyonunu kullanın:
-    https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
+   Cihazınızda python 3+ ve pip kurulu olmadığı müddetçe transferi gerçekleştiremezsiniz.
+   
+   Buraya kadar gelmenizden python kullandığınızı ve cihazınızda geçerliliğini yitirmek üzere olan python 2.7'nin yerine python 3+ kurulu olduğunu tahmin ediyorum
+   
+   Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelir ancak; eğer Windows kullanıyor ve pip kurmakta sorun yaşıyorsanı lütfen şu orjinal python dökümantosyonunu kullanın:
+   https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
