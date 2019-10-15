@@ -3,7 +3,7 @@ import tqdm
 import os
 
 # cihazın IP adresi
-SERVER_HOST = "192.168.1.56"
+SERVER_HOST = "0.0.0.0"
 SERVER_PORT = 300
 
 # her seferinde 4096 bayt alır
