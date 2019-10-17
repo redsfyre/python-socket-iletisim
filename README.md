@@ -46,3 +46,4 @@ Debian tabanlı dağıtımlarda:
 Arch tabanlı dağıtımlarda:
 
     $ sudo pacman -S python-pip
+    $ pip3 --version
