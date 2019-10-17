@@ -1,4 +1,4 @@
-# Python Socket Veri İletişimi Dersi Ödevi
+# BIL-303 Veri İletişimi Dersi Ödevi
 
 ### Python ile socket kullanarak ağ üzerinde veri transferi yapmak
 
@@ -34,5 +34,15 @@
    
    Buraya kadar gelmenizden python kullandığınızı ve cihazınızda geçerliliğini yitirmek üzere olan python 2.7'nin yerine python 3+ kurulu olduğunu tahmin ediyorum
    
-   Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelir ancak; eğer Windows kullanıyor ve pip kurmakta sorun yaşıyorsanız lütfen şu orjinal python dökümantosyonunu kullanın:
+   Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelebiiyor ancak eğer bu durum sizin için geçerli değilse veya Windows kullanıyor ve pip kurmakta sorun yaşıyorsanız lütfen şu orjinal python dökümantosyonunu kullanın:
    https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
+
+Debian tabanlı dağıtımlarda:
+
+    $ sudo apt-get update
+    $ sudo apt-get install python3-pip
+    $ pip3 --version
+    
+Arch tabanlı dağıtımlarda:
+
+    $ sudo pacman -S python-pip
