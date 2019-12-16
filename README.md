@@ -34,7 +34,7 @@
    
    Buraya kadar gelmenizden python kullandığınızı ve cihazınızda geçerliliğini yitirmek üzere olan python 2.7'nin yerine python 3+ kurulu olduğunu tahmin ediyorum
    
-   Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelebiiyor ancak eğer bu durum sizin için geçerli değilse veya Windows kullanıyor ve pip kurmakta sorun yaşıyorsanız lütfen şu orjinal python dökümantosyonunu kullanın:
+   Linux işletim sistemlerinin yeni sürümlerinde python 3+ ve pip varsayılan olarak kurulu gelebiiyor ancak eğer bu durum sizin için geçerli değilse veya Windows kullanıyor ve pip kurmakta sorun yaşıyorsanız lütfen şu orjinal python dökümantasyonunu kullanın:
    https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
 
 Debian tabanlı dağıtımlarda:
