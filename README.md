@@ -2,8 +2,10 @@
 
 ### Python ile socket kullanarak ağ üzerinde veri transferi yapmak
 
-Çalıştırmak için
-- `pip3 install -r requirements.txt`.
+Çalıştırmadan önce:
+- `pip3 install -r requirements.txt`
+
+Çalıştırmak için:
 - ### Server için ( alıcı ):
     - 
         ```
